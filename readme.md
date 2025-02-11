@@ -5,7 +5,7 @@
 
 
 Full Stack Developer | Student @ SRMIST 
-<img align="right" width="400" height="320" src="https://raw.githubusercontent.com/Yash-Handa/Yash-Handa/refs/heads/main/code.gif">
+<img align="right" width="420" height="320" src="https://raw.githubusercontent.com/Yash-Handa/Yash-Handa/refs/heads/main/code.gif">
 - 🔭 Here's my [portfolio](https://portfolio-mohithpranavs-projects.vercel.app/)                                                 
 - 🌱 Focused on problem-solving, developing scalable applications, and exploring emerging technologies.
 
