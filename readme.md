@@ -4,8 +4,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mohithpranav&color=blue)
 
 
-
-**Full Stack Developer | Student @ SRMIST 
+Full Stack Developer | Student @ SRMIST 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://portfolio-mohithpranavs-projects.vercel.app/)                                                 
 - 🌱 Focused on problem-solving, developing scalable applications, and exploring emerging technologies.
