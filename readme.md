@@ -5,7 +5,9 @@
 
 
 Full Stack Developer | Student @ SRMIST 
+<br>
 <img align="right" width="420" height="320" src="https://raw.githubusercontent.com/Yash-Handa/Yash-Handa/refs/heads/main/code.gif">
+<br>
 - 🔭 Here's my [portfolio](https://portfolio-mohithpranavs-projects.vercel.app/)                                                 
 - 🌱 Focused on problem-solving, developing scalable applications, and exploring emerging technologies.
 
@@ -43,6 +45,7 @@ Full Stack Developer | Student @ SRMIST
 
 
 ![mohithpranav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohithpranav&theme=dark&hide_border=true)
+![mohithpranav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithpranav&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mohithpranav?theme=dark&font=ABeeZee&ext=heatmap)
 
