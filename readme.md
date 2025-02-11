@@ -14,11 +14,11 @@ Student @ SRMIST
 
 
 
+
+
 ### Tools I Use  
 
 <p align="center">
-  <img height="50" width="50" src="https://img.icons8.com/color/48/python.png" alt="Python"/> 
-  <img height="50" width="50" src="https://img.icons8.com/color/48/c-programming.png" alt="C"/> 
   <img height="48" width="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/> 
@@ -29,7 +29,7 @@ Student @ SRMIST
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/node-js.png" alt="Node.js"/> 
   <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/> 
-  <img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/> 
+  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-shadow-tal-revivo.png" alt="MongoDB"/> 
   <img width="50" height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="Prisma ORM"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>  
