@@ -22,7 +22,7 @@ Student @ SRMIST
 
 ### Tools I Use  
 
-<p align="center">
+<p>
   <img height="48" width="48" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="JavaScript"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/> 
