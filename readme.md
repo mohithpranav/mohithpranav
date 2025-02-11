@@ -30,13 +30,13 @@ Student @ SRMIST
   <img width="48" height="48" src="https://img.icons8.com/color/48/html-5.png" alt="HTML5"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="React"/> 
-  <img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/> 
+  
+</p>
+<p><img width="48" height="48" src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/> 
   <img width="50" height="50" src="https://img.icons8.com/fluency/50/node-js.png" alt="Node.js"/> 
   <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="Express.js"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="PostgreSQL"/> 
 <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
-</p>
-<p>
    <img width="50" height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="Prisma ORM"/> 
    <img width="48" height="48" src="https://img.icons8.com/color/48/tailwind_css.png" alt="Tailwind CSS"/> 
   <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma"/>  
