@@ -2,7 +2,7 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohithpranav&color=blue)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=mohithpranav)
+
 
 
 Student @ SRMIST 
