@@ -48,4 +48,6 @@ Full Stack Developer | Student @ SRMIST
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mohithpranav?theme=dark&font=ABeeZee&ext=heatmap)
 
+<!--
 [![Mohith Pranav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohithpranav&bg_color=000000&color=487cad&line=797779&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+-->
