@@ -44,9 +44,9 @@ Full Stack Developer | Student @ SRMIST
 
 
 ![mohithpranav's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohithpranav&theme=dark&hide_border=true)
-![mohithpranav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithpranav&theme=dark&show_icons=true&hide_border=true&layout=compact)
-![mohithpranav's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohithpranav&layout=compact&theme=radical
-)
+<!-- 
+![mohithpranav's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohithpranav&theme=dark&show_icons=true&hide_border=true&layout=compact) -->
+![mohithpranav's Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mohithpranav&layout=compact&theme=dark)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mohithpranav?theme=dark&font=ABeeZee&ext=heatmap)
 
